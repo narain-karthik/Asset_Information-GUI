@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="Logo.png" width="80%" alt="Asset_Info-v2 Preview"/>
+  <img src="file.png" width="15%" alt="Asset_Info-v2 Preview"/>
 </p>
 
 ---
@@ -41,7 +41,7 @@ Built for IT professionals, helpdesks, and asset managers.
 ## 🖥️ Interface Preview
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-repo-asset-info-gui-screenshot.png" width="80%" alt="Asset_Info-v2 UI"/>
+  <img src="1.png" width="80%" alt="Asset_Info-v2 UI"/>
 </p>
 
 ---
@@ -78,7 +78,7 @@ pip install psutil reportlab
 ## 📝 PDF Export Sample
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-repo-asset-info-gui-pdf.png" width="80%" alt="Asset_Info-v2 PDF Export"/>
+  <img src="2.png" width="80%" alt="Asset_Info-v2 PDF Export"/>
 </p>
 
 ---
