@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="Asset_Info-v2_Logo_.png" width="80%" alt="Asset_Info-v2 Preview"/>
+  <img src="v2/Logo.png" width="80%" alt="Asset_Info-v2 Preview"/>
 </p>
 
 ---
